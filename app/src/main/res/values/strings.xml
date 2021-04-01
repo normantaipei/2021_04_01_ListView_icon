@@ -6,6 +6,7 @@
         <item>美洲</item>
         <item>歐洲</item>
         <item>大洋洲</item>
+        <item>非洲</item>
     </string-array>
     <string name="region_selected">選擇的地區：</string>
 
@@ -14,6 +15,7 @@
         <item >@drawable/icon_america</item>
         <item >@drawable/icon_europe</item>
         <item >@drawable/icon_oceania</item>
+        <item >@drawable/usicon</item>
     </string-array>
 
 </resources>
